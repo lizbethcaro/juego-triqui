@@ -1,7 +1,7 @@
 <?php
 
     $b = 0;
-    $ontador = 0;
+    $contador = 0;
 
     while( $b == 0 && $contador <= 1000)
     {
@@ -33,6 +33,7 @@
 
         $contador ++;
         //while( $b == 0 && $contador <==100 )
+        
     }
 
 

@@ -1,3 +1,3 @@
 <?php
 
-    rand( 1, 9 );
+    echo substr("lizbeth", 0,2 );
